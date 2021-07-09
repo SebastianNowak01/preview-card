@@ -1,0 +1,5 @@
+@media (min-width: 376px){
+    .container{
+        flex-wrap: nowrap;
+    }
+}
